@@ -14,14 +14,14 @@
     }
   },
   "support": {
-    "issues": "https://github.com/ethercreative/seo",
-    "docs": "https://github.com/ethercreative/seo/blob/v3/README.md"
+    "issues": "https://github.com/marcelweidum/seo",
+    "docs": "https://github.com/marcelweidum/seo/blob/v3/README.md"
   },
   "extra": {
     "handle": "seo",
     "name": "SEO",
-    "developer": "Ether Creative",
-    "developerUrl": "https://ethercreative.co.uk",
+    "developer": "MarcelWeidum",
+    "developerUrl": "https://github.com/MarcelWeidum",
 
     "class": "ether\\seo\\Seo"
   },
