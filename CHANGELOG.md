@@ -1,3 +1,7 @@
+## 4.2.4 - 2025-01-20
+### Renamed
+- Some things in the composer.json
+
 ## 4.2.2 - 2024-02-16
 ### Fixed
 - use pagination information on canonical (via @therealpecus)
